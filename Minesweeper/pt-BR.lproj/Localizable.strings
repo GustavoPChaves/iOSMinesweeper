@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Minesweeper
+
+  Created by Gustavo Chaves on 27/11/19.
+  Copyright © 2019 Gustavo Chaves. All rights reserved.
+*/
+"Minesweeper" = "Campo minado";
+"You win" = "Venceu";
+"You lose" = "Perdeu";
+"Cancel" = "Cancelar";
+"Select the field size:" = "Selecione o tamanho do campo:";
+"Try again" = "Jogar novamente";

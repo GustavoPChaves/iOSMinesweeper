@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Minesweeper
+
+  Created by Gustavo Chaves on 27/11/19.
+  Copyright © 2019 Gustavo Chaves. All rights reserved.
+*/
+"Minesweeper" = "Minesweeper";
+"You win" = "You win";
+"You lose" = "You lose";
+"Cancel" = "Cancel";
+"Select the field size:" = "Select the field size:";
+"Try again" = "Try again";
