@@ -33,7 +33,7 @@ class SKButtonNode: SKSpriteNode{
     func setupLabel(message: String, position: CGPoint)->SKLabelNode{
         let label = SKLabelNode(text: message)
         label.fontColor = .black
-        label.fontSize = 20
+        label.fontSize = 18
         label.fontName = "HelveticaNeue-Medium"
         label.verticalAlignmentMode = .center
         label.horizontalAlignmentMode = .center
