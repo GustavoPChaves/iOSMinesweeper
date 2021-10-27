@@ -104,10 +104,10 @@ class GameViewController: UIViewController {
         let localizedTitle = NSLocalizedString("Select the field size:", comment: "")
         let alert = UIAlertController(title: localizedTitle, message: "", preferredStyle: .alert)
         
-        let boardSizes = [BoardSize(sizeX: 12, sizeY: 15),
-                          BoardSize(sizeX: 11, sizeY: 14),
-                          BoardSize(sizeX: 10, sizeY: 13),
-                          BoardSize(sizeX: 8, sizeY: 10)]
+        let boardSizes = [BoardSize(sizeX: 25, sizeY: 30),
+                          BoardSize(sizeX: 15, sizeY: 20),
+                          BoardSize(sizeX: 10, sizeY: 15),
+                          BoardSize(sizeX: 5, sizeY: 10)]
              
         boardSizes.forEach { fieldSize in
             let actionTitle = "\(fieldSize.sizeX)x\(fieldSize.sizeY)"
