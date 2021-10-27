@@ -83,7 +83,7 @@ class TileNode: SKSpriteNode{
     func setupLabel(){
         label = SKLabelNode(text: "")
         label.fontColor = .black
-        label.fontSize = 20
+        label.fontSize = 18
         label.fontName = "HelveticaNeue-Medium"
         label.position = CGPoint(x: size.width/2, y: -size.height/2)
         label.verticalAlignmentMode = .center
